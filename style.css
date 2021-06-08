@@ -1,0 +1,66 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container-0{
+  padding: 25px 15px 10px 50px;
+  background-color: black;
+  opacity: 0.6;
+  border-radius: 5px
+
+}
+.container-1{
+  width: 1000px;
+  margin: auto;
+  font-family: Helvetica, Sans-Serif;
+  text-align: center;
+}
+
+.logo{
+  width: 250px;
+}
+
+.logo-text{
+  font-size: 40px;
+  color: lime;
+
+}
+
+.buttons-background{
+  background-color: lime;
+  padding: 20px;
+}
+
+.container-2{
+  width: 1000px;
+  margin: auto;
+  font-family: Helvetica, Sans-Serif;
+  text-align: left;
+}
+
+.row-style{
+  margin-top: 20px;
+  color: white;
+}
+
+.carica-1{
+  height: 20px;
+  width: 400px;
+  border-radius: 2px;
+  background-color: rgb(255, 191, 0);
+}
+
+.carica-2{
+  height: 20px;
+  width: 650px;
+  border-radius: 2px;
+  background-color: rgb(51, 204, 51);
+}
+
+.carica-3{
+  height: 20px;
+  width: 150px;
+  border-radius: 2px;
+  background-color: rgb(204, 51, 51);
+}
